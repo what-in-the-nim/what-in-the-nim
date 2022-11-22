@@ -2,7 +2,11 @@
 
 ## 🚀 About Me
 
-👨🏻‍💻 My name is Chatcharin Sangbutsarakum. My nick name is Win 🥇. I graduated from Biomedical Engineering 🩻 at Mahidol University. I am currently a Python Developer 🐍 working on various machine learning 🤖 frameworks such as TensorFlow, PyTorch, and Sklearn.
+👨🏻‍💻 My name is Chatcharin Sangbutsarakum. My nick name is Win 🥇. I graduated from Biomedical Engineering 🩻 at Mahidol University. My field of study is 🧠 Brain-Computer Interface about motor imagery 🚶🏻‍♂️.  
+
+I am currently a Python Developer 🐍 working on various machine learning 🤖 frameworks such as TensorFlow, PyTorch, and Sklearn.
+
+Fun fact: Also a coffee enthusiast ☕️ and a custom mechanical keyboard enthusiast ⌨️
 
 
 <!--
