@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi there 👋
+
+## 🚀 About Me
+
+👨🏻‍💻 My name is Chatcharin Sangbutsarakum. My nick name is Win 🥇. I graduated from Biomedical Engineering 🩻 at Mahidol University. I am currently a Python Developer 🐍 working on various machine learning 🤖 frameworks such as TensorFlow, PyTorch, and Sklearn.
+
 
 <!--
 **what-in-the-nim/what-in-the-nim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
